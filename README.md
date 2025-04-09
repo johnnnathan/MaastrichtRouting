@@ -52,14 +52,14 @@ Here are some examples of how to use the application:
 - Select postal code: 6216EG
 - View the accessibility score for the neighborhood
 
-![Example 1](data/img/screenshots/example_1.png)
+![Example 1](Program/data/img/screenshots/example_1.png)
 
 **Example 2:**
 - Choose Bike mode
 - Press the "Shortest Route" button
 - Select postal codes: 6216EG and 6221CR
 
-![Example 2](data/img/screenshots/example_2.png)
+![Example 2](Program/data/img/screenshots/example_2.png)
 
 **Example 3:**
 - Select departure time: 08:00 AM
@@ -67,7 +67,7 @@ Here are some examples of how to use the application:
 - Choose no transfers
 - Select postal codes: 6221CR and 6229EN
 
-![Example 3](data/img/screenshots/example_3.png)
+![Example 3](Program/data/img/screenshots/example_3.png)
 
 **Example 4:**
 - Select departure time: 03:00 PM
@@ -75,15 +75,15 @@ Here are some examples of how to use the application:
 - Choose transfers
 - Select postal codes: 6218BK and 6229GV
 
-![Example 4](data/img/screenshots/example_4.png)
-![Example 4 Details](data/img/screenshots/example_4_details.png)
+![Example 4](Program/data/img/screenshots/example_4.png)
+![Example 4 Details](Program/data/img/screenshots/example_4_details.png)
 
 ## Images
 ### Image 1: Route Visualization
-![Route Visualization](data/img/screenshots/example_4.png)
+![Route Visualization](Program/data/img/screenshots/example_4.png)
 
 ### Image 2: Accessibility Score Heatmap
-![Accessibility Score Heatmap](data/img/screenshots/accessibility_score_heatmap.png)
+![Accessibility Score Heatmap](Program/data/img/screenshots/accessibility_score_heatmap.png)
 
 ## Dependencies
 - Java 21
